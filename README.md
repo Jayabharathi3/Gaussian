@@ -11,9 +11,11 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 
 ## Algorithm:
 1. Import numpy as np
-2. 
-3. 
-4. 
+2. Import  sys
+3. Get the input from the user for number of rows and add it by 1 for number of column 
+4. Using nested for loop
+5. Use back substitution method to find the value of variables 
+6. Print the output
 
 ## Program:
 
